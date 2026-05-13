@@ -74,10 +74,10 @@
 ### 环境要求
 | 环境 | 版本要求 |
 |------|----------|
-| JDK | 21 |
+| JDK | 17 |
 | Node.js | 22.18.0 |
 | MySQL | 8.x |
-| IDEA | 2025 及以上 |
+| IDEA | 2023 及以上 |
 
 ---
 
@@ -94,8 +94,8 @@
 
 #### 2.1 项目结构设置
 1. 打开 IDEA **Project Structure（项目结构）**
-2. 在 `Modules → Sources` 中选择 `21 Lambdas`
-3. 在 `Modules → Dependencies` 中指定 **JDK 21**（与环境要求统一）
+2. 在 `Modules → Sources` 中选择 `17 Lambdas`
+3. 在 `Modules → Dependencies` 中指定 **JDK 17**（与环境要求统一）
 
 #### 2.2 Maven 环境配置
 1. 打开 IDEA **Settings（设置）**
